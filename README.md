@@ -19,4 +19,4 @@ The goal is to support decision making through visualizations and data driven in
 -Pages_Viewed   
 -Is_Returning_Customer  
 -Delivery_Time_Days  
--Customer_Rating  
+-Customer_Rating   
